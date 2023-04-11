@@ -1,1 +1,1 @@
-<img src="./img/decathlon_app" alt="decathlon_screenshot">
+<img src="./img/decathlon_app.jpg" alt="decathlon_screenshot">
